@@ -1,0 +1,28 @@
+Please read this at first: all the code is in the "8.15 EOI CODE"
+
+T1 
+
+It's a very easy problem. 
+The answer is to take the greatest common divisor of all the numbers and multiply it by n.  
+
+
+T2:
+
+Of course,also easy!  
+All it takes is violence.  
+
+T3:
+
+A good topic to think about.
+Find the maximum identical substring after deleting k elements.
+We can sort their numbers or put them in the same array and store their location information.
+By a ruler, the left and right end points are moved to fight.
+Different colors restore the initial value.         
+
+T4:
+
+Give up!
+
+ 
+
+
